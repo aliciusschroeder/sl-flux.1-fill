@@ -1,3 +1,4 @@
+flux==0.0.post41+g805da85
 torch == 2.5.1
 torchvision
 einops
